@@ -1,5 +1,8 @@
+# dev environment
+.venv
+venv
 
+# dbt
 target/
 dbt_packages/
 logs/
-.venv
