@@ -1,0 +1,7 @@
+version 2:
+
+models:
+    - name: stg_gcp_log__activity
+      description: This model is a staging model that contains the raw data from the GCP logs for activity.
+    - name: stg_gcp_log__data_access
+      description: This model is a staging model that contains the raw data from the GCP logs for data access.
